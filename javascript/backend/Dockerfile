@@ -10,4 +10,4 @@ RUN yarn
 
 COPY . .
 
-CMD [ "tail", "-f", "/dev/null" ]
+CMD [ "yarn", "start" ]
