@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Feira de Santana a Salvador",
+    "startPosition": "3.852028193180104, -49.24904169710304",
+    "endPosition": "-32.334629599013255, -50.91896349327005"
+  },
+  {
+    "title": "Salvador a Aracaju",
+    "startPosition": "-13.563361970605028, -71.79973202638382",
+    "endPosition": "-13.185471767926657, -72.15708333692042"
+  },
+  {
+    "title": "Aracaju a Maceió",
+    "startPosition": "45.92295914330487, 6.849517799941161",
+    "endPosition": "45.9837192714213, 6.926889076030138"
+  },
+  {
+    "title": "Maceió a Fortaleza",
+    "startPosition": "43.16304827564565, -1.23842241979735",
+    "endPosition": "42.877437090889615, -8.524591059486902"
+  },
+  {
+    "title": "Fortaleza a Natal",
+    "startPosition": "38.67449178290197, -66.1902211380812",
+    "endPosition": "63.776249756451534, -157.77224806471352"
+  }
+]
