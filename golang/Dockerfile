@@ -7,5 +7,5 @@ ENV CGO_ENABLED=1
 
 COPY . .
 
-EXPOSE 3333
+EXPOSE 8000
 CMD ["go", "run", "main.go"]
