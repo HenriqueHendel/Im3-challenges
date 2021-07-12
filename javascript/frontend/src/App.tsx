@@ -14,7 +14,7 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const { data } = await axios.get("http://backend-service:3000/routes");
+      const { data } = await axios.get("http://localhost:3000/routes");
       setRoutes(data);
       console.log(data);
     })();
